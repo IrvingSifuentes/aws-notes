@@ -47,3 +47,10 @@
 ## Herramientas de auditoría
 - **Credentials Report**: lista todos los usuarios y estado de credenciales
 - **Access Advisor**: muestra últimos accesos por servicio
+
+
+## Práctica realizada
+- ✅ Creé usuario `irving-dev`
+- ✅ Creé grupo `developers` con política AdministratorAccess
+- ✅ Asigné usuario al grupo
+- ⚠️ Pendiente: activar MFA al usuario
