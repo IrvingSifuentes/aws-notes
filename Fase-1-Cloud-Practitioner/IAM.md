@@ -54,3 +54,15 @@
 - ✅ Creé grupo `developers` con política AdministratorAccess
 - ✅ Asigné usuario al grupo
 - ⚠️ Pendiente: activar MFA al usuario
+## Práctica MFA y Roles
+
+### MFA activado
+- ✅ MFA configurado en usuario `irving-dev`
+- App: Google Authenticator
+- Genera códigos cada 30 segundos
+
+### Rol IAM creado
+- ✅ Rol: `ec2-s3-readonly`
+- Entidad: Servicio EC2
+- Política: AmazonS3ReadOnlyAccess
+- Caso de uso: EC2 leyendo archivos de S3 sin necesidad de claves de acceso
