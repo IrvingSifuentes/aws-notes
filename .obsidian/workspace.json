@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fase-1-Cloud-Practitioner/IAM.md",
+                "file": "github/github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IAM"
+              "title": "github"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fase-1-Cloud-Practitioner/IAM.md",
+                "file": "github/github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de IAM"
+              "title": "Enlaces entrantes de github"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fase-1-Cloud-Practitioner/IAM.md",
+                "file": "github/github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de IAM"
+              "title": "Enlaces salientes de github"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fase-1-Cloud-Practitioner/IAM.md",
+                "file": "github/github.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de IAM"
+              "title": "Esquema de github"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "7ddfc8b010bd4a10",
   "lastOpenFiles": [
-    "cloud-computing.md",
     "Fase-1-Cloud-Practitioner/IAM.md",
+    "github/github.md",
+    "github",
+    "cloud-computing.md",
     "Fase-1-Cloud-Practitioner"
   ]
 }
